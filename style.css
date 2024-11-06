@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: 'FreckleFace';
+    src: url('assests/FreckleFace-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin:auto;
+}
+
+button {
+  font-size: 20px;
+  background-color: orange;
+  color: black;
+  font-family: 'FreckleFace';
+  margin: auto;
+}
+
+#button-holder {
+  margin: auto;
+  width: 400px;
+  padding-left: 15px;
+  
+}
+
+
+#button-holder4 {
+  padding-top: 50px;
+ 
+  margin: auto;
+  width: 400px;
+  justify-content: center;
+  
+}
